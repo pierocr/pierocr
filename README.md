@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, mi nombre es Piero y soy un Desarrollador fullStack en proceso....⏳💻👋
 
 Ich heiße Piero Céspedes Romanini
 
