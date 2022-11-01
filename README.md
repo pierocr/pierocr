@@ -1,4 +1,4 @@
-### Hola, mi nombre es Piero y soy un Desarrollador fullStack en proceso....⏳💻👋
+### Hola, mi nombre es Piero y soy un Desarrollador FullStack en proceso....⏳💻👋
 ---------------------------------------------------------------------------------
 
 Soy analista programador titulado en Inacap, en 2018.
